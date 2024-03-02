@@ -23,7 +23,7 @@
 
 ######
 # OSD 4.4 DEFAULTS
-#$ INCLUDE: presets/4.4/OSD/defaults.txt
+#$ INCLUDE: presets/4.4/osd/defaults.txt
 
 ######
 # DJI Gaggles Version 2 Canvas settings I believe

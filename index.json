@@ -370,7 +370,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/defaults_vtx_tables.txt",
-      "hash": "68e9e782e44e6e4c7db0d63d77bfdbf33e1e2de42d26917a607ba2261b1a74d7",
+      "hash": "77b535aa6e95af50997a23c1c31db536677a83ccdfdf76e724d3522e90ac6fbf",
       "title": "Default 4.3 VTX table settings",
       "firmware_version": [
         "4.3",
@@ -423,7 +423,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/skesseks_DJI_normal.txt",
-      "hash": "1051fc08b62390b0eeee764727d5b64a39544f8e6e74be7eefd0a82176fadeaa",
+      "hash": "b0b0faa2377e86f09ede9a09bcd030de7d2bc8edd5c77c2e6445613e1a4b6a46",
       "title": "SKESSEKS Normal DJI HD OSD",
       "firmware_version": [
         "4.4"

@@ -52,7 +52,6 @@ set osd_rssi_pos = 4103
 set osd_tim_1_pos = 7190
 set osd_tim_2_pos = 5174
 set osd_vbat_pos = 4610
-set osd_vtx_channel_pos = 7776
 set osd_warnings_pos = 14772
 
 

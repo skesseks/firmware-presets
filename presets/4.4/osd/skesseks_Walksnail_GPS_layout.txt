@@ -1,0 +1,31 @@
+#$ TITLE: SKESSEKS Normal Walksnail GPS HD OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: Walksnail, HD, GPS
+#$ AUTHOR: Skesseks (David Wing)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Skesseks HD Walksnail GPS OSD Settings
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
+#$ DESCRIPTION: This is my normal GPS OSD layout.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Walksnail HD GPS OSD.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: 
+#$ DISCUSSION:
+
+######
+# OSD 4.4 DEFAULTS
+# #$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_gps_speed_pos = 1268
+set osd_gps_lon_pos = 341
+set osd_gps_lat_pos = 341
+set osd_gps_sats_pos = 1652
+set osd_gps_sats_show_pdop = OFF

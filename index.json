@@ -173,6 +173,7 @@
       "filters",
       "fpv.wtf",
       "freestyle",
+      "GPS",
       "HD",
       "HD video",
       "HDOSD",
@@ -206,7 +207,7 @@
       "vtx",
       "vtx table",
       "vtxtable",
-      "walksnail",
+      "Walksnail",
       "whoop",
       "whoop lite",
       "wtfos"
@@ -439,6 +440,39 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/skesseks_Walksnail_GPS_layout.txt",
+      "hash": "2088db1aee6ce252d42910f8b1134792cda3e87c56bffba99405831c9917ebc8",
+      "title": "SKESSEKS Normal Walksnail GPS HD OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Walksnail",
+        "HD",
+        "GPS"
+      ],
+      "author": "Skesseks (David Wing)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/skesseks_Walksnail_layout.txt",
+      "hash": "a15cc0f5325a901e164eac4349f5347bf08fb85b93fd9c10ba3e0e449e02e74a",
+      "title": "SKESSEKS Normal Walksnail HD OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Walksnail",
+        "HD"
+      ],
+      "author": "Skesseks (David Wing)",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
       "hash": "fe6be880bb051e1294253d2f583def5c9ad8c540d3463540ec9b80fa2a5d775a",
       "title": "Reset ALL RC link related settings",
@@ -573,6 +607,54 @@
       ],
       "author": "Betaflight",
       "priority": 100
+    },
+    {
+      "fullPath": "presets/4.5/modes/Skesseks_Normal.txt",
+      "hash": "3ff988f7167a7e45c531c6d59b945431282a5a401919f541a39d34d37aedd3fe",
+      "title": "SKESSEKS MODES",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "BOXER RADIOMASTER TX16S ADJUSTMENTS"
+      ],
+      "author": "Skesseks (David Wing)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/skesseks_Walksnail_GPS_layout.txt",
+      "hash": "35932092e7278167132ad3841a1c962f51b70ad0b2f0e5334b18f89524371b61",
+      "title": "SKESSEKS Normal Walksnail GPS HD OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Walksnail",
+        "HD",
+        "GPS"
+      ],
+      "author": "Skesseks (David Wing)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/skesseks_Walksnail_layout.txt",
+      "hash": "04cd477df5363bc1cdc909301421bb7e81f94cb5a3b27743d92cc7ca450b3c9c",
+      "title": "SKESSEKS Normal Walksnail HD OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Walksnail",
+        "HD"
+      ],
+      "author": "Skesseks (David Wing)",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.5/tune/defaults.txt",
